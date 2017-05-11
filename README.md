@@ -1,1 +1,1 @@
-# Aluno mais foda da turma de 2°B de EEEP Prof Marly Ferreira Martins
+# Aluno da turma de 2°B da EEEP Prof Marly Ferreira Martins
