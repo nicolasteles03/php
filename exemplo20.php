@@ -19,8 +19,7 @@
 	</script>
 </head>
 	<?php
-	 	echo "<body onload='visita($valor)'>";
-	 }
+	 	echo "<body onload='visita($valor)'>";	 
 	?>
 </body>
 </html>
